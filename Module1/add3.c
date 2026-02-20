@@ -1,5 +1,6 @@
-/* Read in Three Floats and Print Sum
-   Rezajhr
+/* 
+Read in Three Floats and Print Sum
+   Reza-jhr
    February, 19, 2026
 */
 #include <stdio.h>
