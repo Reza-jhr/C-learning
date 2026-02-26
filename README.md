@@ -8,3 +8,6 @@ This repository contains my C programming practice files while learning the lang
 * Circle.c → Program that calculate the area of a circle with having the radius as an input.
 * Marathon.c → The distance of marathon in kilometres
 * Fahrenheit.c → Conversion of Fahrenheit to Celsius
+* Sizeof.c → Using Sizeof Commands
+* PracticeAndCorrection.c → Finding the errors and modifying
+* Sine.c → A practice to use math function and using the range
